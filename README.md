@@ -8,7 +8,7 @@ The objective of the code is to create a Python program that generates an intera
 
 These coordinates create the bounderies for the a region in Toronto, Ontario, Canada. This neighbourhood is known as North York and is patroled by Division 32 of the Toronto Police.
 
-![map](images/map.PNG)
+![map](img/map.PNG)
 
 As seen in the map, five points of interest are chosen at random and a route is generated to connect all the points together.
 
